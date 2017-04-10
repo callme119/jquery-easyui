@@ -1,14 +1,20 @@
 {
-  "name": "jquery-easyui",
+  "name": "callme119-jquery-easyui",
   "version": "1.5.1",
   "dependencies": {
     "jquery": "~3.1.0"
   },
   "authors": [
-    "waylau <waylau521@gmail.com>"
+    "panjie <panjie@yunzhiclub.com>"
   ],
   "description": "easyui lib for git and bower。为bower提供eaasyui库",
-  "main": "jquery.easyui.min.js",
+  "main": [
+    "jquery.easyui.min.js",
+    "themes/icon.css",
+    "themes/default/easyui.css",
+    "themes/color.css",
+    "demo/demo.css"
+  ],
   "keywords": [
     "easyui",
     "1.5.1"
