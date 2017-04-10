@@ -9,11 +9,11 @@
   ],
   "description": "easyui lib for git and bower。为bower提供eaasyui库",
   "main": [
-    "jquery.easyui.min.js",
-    "themes/icon.css",
-    "themes/default/easyui.css",
-    "themes/color.css",
-    "demo/demo.css"
+    "./jquery.easyui.min.js",
+    "./themes/icon.css",
+    "./themes/default/easyui.css",
+    "./themes/color.css",
+    "./demo/demo.css"
   ],
   "keywords": [
     "easyui",
